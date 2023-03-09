@@ -10,6 +10,7 @@ ________________
 <dd> E-mail: kristinadenysiuk98@gmail.com </dd>
 <dd> Telegram: @kristinadenysiuk </dd>
 <dd>Ukraine, Ternopil</dd>
+<dd>Git Hub: KristinaDenysiuk</dd>
 
 ------
 
